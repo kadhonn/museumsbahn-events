@@ -1,7 +1,6 @@
 plugins {
     id("org.springframework.boot")
     id("io.spring.dependency-management")
-    id("io.cloudflight.autoconfigure.swagger-api-configure")
     kotlin("jvm")
     kotlin("plugin.spring")
     kotlin("kapt")
